@@ -1,0 +1,8 @@
+.my-table{
+    border: 2px solid red;
+    background-color: aqua;
+    width: 200px;
+}
+.my-table-tr td {
+    border: 1px sloid green;
+}
