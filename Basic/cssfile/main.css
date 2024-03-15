@@ -1,8 +1,9 @@
 .my-table{
-    border: 2px solid red;
-    background-color: aqua;
-    width: 200px;
+    border: 1px solid red;
+    text-align: center;
+    border-collapse: collapse;
 }
-.my-table-tr td {
-    border: 1px sloid green;
+td{
+    border: 1px solid blue;
+    padding: 20px 15px;
 }
