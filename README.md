@@ -1,3 +1,5 @@
+![image](https://github.com/Asadullokh27/FrontendPro/assets/153064248/6b263c0b-82bd-4b1b-aacd-a7871ac1e312)
+![image](https://github.com/Asadullokh27/FrontendPro/assets/153064248/fb4022d8-1750-419e-934c-ad5468386662)
 ![image](https://github.com/Asadullokh27/FrontendPro/assets/153064248/7ee51b14-e22a-46e8-a981-4395e9865b87)
 ![image](https://github.com/Asadullokh27/FrontendPro/assets/153064248/8b484c38-91cb-4386-8ecb-dd69713ca993)
 ![image](https://github.com/Asadullokh27/FrontendPro/assets/153064248/4f94ea54-e7ad-4feb-92f1-e0a72ffa8ecd)
