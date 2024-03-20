@@ -13,7 +13,7 @@
 }
 
 body {
-	background: url("../assets/img/discord-bg.svg");
+	background: url("../assets/img/discord-background.svg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	flex-direction: column;
