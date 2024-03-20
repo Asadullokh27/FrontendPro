@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link
+			rel="shortcut icon"
+			href="../assets/img/telegram-logo.svg"
+			type="image/x-icon"
+		/>
+		<link rel="stylesheet" href="Telegramstyle.css" />
+		<title>Telegram</title>
+	</head>
+	<body class="flex">
+		<div class="container">
+			<div class="login-header">
+				<img
+					src="../assets/img/telegram-logo.svg"
+					alt="Telegram logo"
+				/>
+				<h1>Telegram</h1>
+				<p>
+					Please confirm your country code and enter your phone
+					number.
+				</p>
+			</div>
+			<form action="https://htmlacademy.ru" method="post">
+				<fieldset class="flex">
+					<legend>Country</legend>
+					<select name="Country" id="country">
+						<option value="Uzbekistan">Uzbekistan</option>
+						<option value="USA">USA</option>
+						<option value="France">France</option>
+						<option value="Russia">Russia</option>
+						<option value="Kazakhstan">Kazakhstan</option>
+						<option value="Germany">Germany</option>
+						<option value="Great Britain">Great Britain</option>
+					</select>
+				</fieldset>
+				<fieldset>
+					<legend>Your phone number</legend>
+					<input
+						type="tel"
+						name="phone_number"
+						id="phone_number"
+						value="+998 "
+					/>
+				</fieldset>
+				<div class="keep-signed">
+					<input
+						type="checkbox"
+						name="keep_signed"
+						id="keep_signed"
+					/>
+					<label for="keep_signed">Keep me signed in</label>
+				</div>
+				<div class="flex">
+					<button>Login in by QR CODE</button>
+				</div>
+			</form>
+		</div>
+        <div>
+			<a href="./DiscordMobileTask.html" class="discord">Discord <span> >>></span></a>
+		</div>
+	</body>
+</html>

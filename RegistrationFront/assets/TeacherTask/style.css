@@ -1,0 +1,19 @@
+.top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    font-size: 18px;
+  }
+  
+.bottom-left {
+    position: absolute;
+    bottom: -120px;
+    left: 16px;
+    font-size: 18px;
+  }
+
+  img { 
+    width: 100%;
+    height: 700px;
+    opacity: 0.3;
+  }
