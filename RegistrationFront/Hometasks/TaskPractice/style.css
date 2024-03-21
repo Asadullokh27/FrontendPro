@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+.navbar ul{
+    gap: 20px;
+    
+}
+.flex{
+    display: flex;
+}
+.f-b{
+    align-items: center;
+    justify-content: space-between;
+}
+.f-c{
+    align-items: center;
+    justify-content: center;
+}
+header{
+    padding: 0 20px;
+    background-color: aqua;
+}
